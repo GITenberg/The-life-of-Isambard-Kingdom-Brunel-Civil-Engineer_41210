@@ -1,0 +1,28 @@
+_repo: The-life-of-Isambard-Kingdom-Brunel-Civil-Engineer_41210
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41210-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brunel, Isambard
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '41038'
+    url: http://www.gutenberg.org/2009/agents/41038
+description: ''
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41210'
+  lccn: '15020070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil engineering'
+- !lcsh 'Brunel, Isambard Kingdom, 1806-1859'
+- !lcc 'TA'
+title: The life of Isambard Kingdom Brunel, Civil Engineer
+url: http://www.gutenberg.org/ebooks/41210
