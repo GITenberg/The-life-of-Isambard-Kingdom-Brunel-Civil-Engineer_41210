@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41038'
     url: http://www.gutenberg.org/2009/agents/41038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41210#The-life-of-Isambard-Kingdom-Brunel-Civil-Engineer
 gutenberg_issued: '2012-10-28'
 gutenberg_type: Text
 identifiers:
